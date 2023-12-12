@@ -3,13 +3,13 @@
 Bienvenue dans Geese & Fox, un jeu de stratégie passionnant pour deux joueurs. Affrontez-vous sur un plateau quadrillé où les oies cherchent à atteindre le bord opposé tandis que les renards tentent de les bloquer. Anticipez les mouvements adverses, élaborez des stratégies astucieuses et relevez le défi de Geese & Fox !
 
 ## Installation
-1. Téléchargez le fichier exécutable (GeeseAndFox.exe) depuis [lien de téléchargement].
-2. Exécutez GeeseAndFox.exe pour lancer le jeu.
+1. Téléchargez le fichier exécutable (Fox And Geese.exe) depuis [lien de téléchargement].
+2. Exécutez *Fox And Geese.exe* pour lancer le jeu.
 
 ## Comment Jouer
 1. Le jeu démarre avec les oies et les renards positionnés sur le plateau.
 2. Les oies jouent en premier, suivi des renards, alternativement.
-3. Déplacez les pièces en utilisant les touches directionnelles pour sélectionner la case et appuyez sur Enter pour valider le mouvement.
+3. Déplacez les pièces en utilisant la souris pour sélectionner la case et pour valider le mouvement.
 4. Les règles d'encerclement et de capture s'appliquent selon les spécifications du jeu.
 
 ## Objectifs du Jeu
