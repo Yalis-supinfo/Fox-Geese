@@ -1,0 +1,142 @@
+{
+    "button": {
+        "colours": {
+            "normal_bg": "rgb(1, 89, 88)",
+            "hovered_bg": "rgb(2, 53, 53)",
+            "disabled_bg": "#25292e",
+            "selected_bg": "#193754",
+            "active_bg": "rgb(5, 94, 94)",
+            "dark_bg": "#15191e",
+            "normal_text": "#c5cbd8",
+            "hovered_text": "#FFFFFF",
+            "selected_text": "#FFFFFF",
+            "disabled_text": "#6d736f",
+            "active_text": "#FFFFFF"
+        },
+        "misc": {
+            "border_width": "0",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "10",
+            "shadow_width": "0"
+        },
+        "font": {
+            "name": "Aclonica",
+            "size": "25",
+            "regular_resource": {
+                "package": "font",
+                "resource": "Aclonica-Regular.ttf"
+            }
+        }
+    },
+    "#title": {
+        "colours": {
+            "normal_text": "rgb(2, 53, 53)"
+        },
+        "font": {
+            "name": "YesevaOne",
+            "size": "80",
+            "regular_resource": {
+                "package": "font",
+                "resource": "YesevaOne-Regular.ttf"
+            }
+        }
+    },
+    "#pion-fox": {
+        "colours": {
+             "normal_bg": "#A58B00",
+             "hovered_bg": "#746100",
+             "disabled_bg": "#A58B00",
+             "selected_bg": "#746100",
+             "active_bg": "#746100",
+             "normal_border": "#000000",
+             "hovered_border": "#000000",
+             "disabled_border": "#000000",
+             "selected_border": "#000000",
+             "active_border": "#000000"
+        },
+        "misc": {
+            "border_width": "2",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "23",
+            "shadow_width": "0"
+        }
+    },
+    "#pion-geese": {
+        "colours": {
+             "normal_bg": "#0FC2C0",
+             "hovered_bg": "#008482",
+             "disabled_bg": "#0FC2C0",
+             "selected_bg": "#008482",
+             "active_bg": "#008482",
+             "normal_border": "#000000",
+             "hovered_border": "#000000",
+             "disabled_border": "#000000",
+             "selected_border": "#000000",
+             "active_border": "#000000"
+        },
+        "misc": {
+            "border_width": "2",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "23",
+            "shadow_width": "0"
+        }
+    },
+    "#placeholder-fox": {
+        "colours": {
+             "normal_bg": "#A58B00",
+             "hovered_bg": "#746100",
+             "disabled_bg": "#A58B00",
+             "selected_bg": "#746100",
+             "active_bg": "#746100"
+        },
+        "misc": {
+            "border_width": "0",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "13",
+            "shadow_width": "0"
+        }
+    },
+    "#placeholder-geese": {
+        "colours": {
+             "normal_bg": "#0FC2C0",
+             "hovered_bg": "#008482",
+             "disabled_bg": "#0FC2C0",
+             "selected_bg": "#008482",
+             "active_bg": "#008482"
+        },
+        "misc": {
+            "border_width": "0",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "13",
+            "shadow_width": "0"
+        }
+    },
+    "#tour-de": {
+        "colours": {
+            "normal_text": "rgb(2, 53, 53)"
+        },
+        "font": {
+            "name": "YesevaOne",
+            "size": "30",
+            "regular_resource": {
+                "package": "font",
+                "resource": "YesevaOne-Regular.ttf"
+            }
+        }
+    },
+    "#no-capt": {
+        "colours": {
+            "disabled_bg": "#008F8C",
+            "disabled_text": "#008F8C",
+            "disabled_border": "#008F8C",
+            "normal_border": "#FF0000",
+            "hovered_border": "#9A0000",
+            "selected_border": "#9A0000",
+            "active_border": "#9A0000"
+        },
+        "misc": {
+            "border_width": "3",
+            "shadow_width": "0"
+        }
+    }
+}
